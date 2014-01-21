@@ -1,0 +1,38 @@
+table
+{
+	border: 1px solid #000;
+	font-family: Verdana, tahoma, sans-serif;
+}
+
+th
+{
+	border: 2px solid #000;
+	padding: 2px;
+	text-align: center;
+	background-color: #ddd;
+}
+
+td
+{
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.averagetitle
+{
+	background-color: #3b3;
+	text-align: right;
+	border: 2px dotted #000;
+	font-weight: bold;
+}
+
+.average
+{
+	background-color: #3b3;
+	border: 1px dotted #000;
+}
+
+.row
+{
+	border: 2px solid #000;
+}
